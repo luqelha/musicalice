@@ -1,14 +1,9 @@
-# musicalice
+```markdown
+# 🎵 Musicalice: Pemutar Musik Flutter Modern
 
-A new Flutter project.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-must to imrove
-[Music Player]
-
-1. player-nya nggk auto update while next song
-2. improve the UI for symmetricity
-3. Ketika keluar dari music player, state dari icon"nya kembali seperti semula (tidak menyimpan statenya) -> untuk button repeatnya (kembali warna putih)
-
-[Paylist Detail]
-
-1. While search button clicked, the resolution more bigger (i dont want it)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://www.spotify.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+```
