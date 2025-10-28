@@ -33,6 +33,8 @@
 > [!IMPORTANT]
 > Musicalice requires users to authenticate with a valid Spotify Premium subscription.
 
+## Demo
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/luqelha/musicalice/main/images/demo.gif" alt="Demo Aplikasi" width="200"/>
 </p>
@@ -89,9 +91,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 Contributions are welcome! If you have suggestions for improvements or find any bugs, please feel free to open an issue or submit a pull request.
 
 1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+2.  Create your Feature Branch (`git checkout -b feature/YourFeature`)
+3.  Commit your Changes (`git commit -m 'Add some YourFeature'`)
+4.  Push to the Branch (`git push origin feature/YourFeature`)
 5.  Open a Pull Request
 
 ## 📜 License
