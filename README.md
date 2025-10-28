@@ -33,6 +33,10 @@
 > [!IMPORTANT]
 > Musicalice requires users to authenticate with a valid Spotify Premium subscription.
 
+<p align="center">
+  <img src="https://github.com/luqelha/musicalice/blob/main/images/demo.gif" alt="Demo Aplikasi" width="200"/>
+</p>
+
 ## ✨ Features
 
 - **🏠 Personalized Home Feed:** Discover curated playlists and personalized song recommendations powered by the Spotify API. See your recently played tracks at a glance.
