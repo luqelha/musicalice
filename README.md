@@ -34,7 +34,7 @@
 > Musicalice requires users to authenticate with a valid Spotify Premium subscription.
 
 <p align="center">
-  <img src="https://github.com/luqelha/musicalice/blob/main/images/demo.gif" alt="Demo Aplikasi" width="200"/>
+  <img src="https://raw.githubusercontent.com/luqelha/musicalice/main/images/demo.gif" alt="Demo Aplikasi" width="200"/>
 </p>
 
 ## ✨ Features
