@@ -1,43 +1,10 @@
-# See https://dart.dev/guides/libraries/private-files
+# Ignore non-Dart platform code from language statistics
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+web/** linguist-vendored
 
-# Dart tool directories
-.dart_tool/
-.packages
-build/
-
-# Pub dependencies lock file
-# Uncomment the next line if you want to exclude the lock file from version control
-pubspec.lock
-
-# Documentation output
-doc/api/
-
-# Environment variable files
-.env*
-.env.local
-.env.development
-.env.production
-
-# Generated JavaScript files
-*.dart.js
-*.info.json
-*.js
-*.js_
-*.js.deps
-*.js.map
-
-# IDE files
-.idea/
-.vscode/
-*.iml
-
-# Coverage files
-coverage/
-
-# Logs and temp files
-*.log
-tmp/
-.cache/
-
-# Misc
-.DS_Store
+# Count only Dart source files
+*.dart linguist-language=Dart
