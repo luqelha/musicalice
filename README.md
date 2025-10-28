@@ -43,3 +43,38 @@
 ⚙️ **Settings & Profile:** View your Spotify profile information and manage your login status.  
 🔒 **Secure Spotify Login:** Authenticates securely with your Spotify account using OAuth 2.0 and PKCE.  
 📱 **Built with Flutter:** Cross-platform compatibility for a consistent experience.
+
+## 🚀 Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+**Prerequisites:**
+
+- Flutter SDK installed (check `flutter doctor`)
+- An IDE like VS Code or Android Studio
+- A Spotify Developer Account and API Keys (Client ID)
+
+**Installation:**
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/your-username/musicalice.git](https://github.com/your-username/musicalice.git)
+    cd musicalice
+    ```
+2.  **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
+3.  **Set up Spotify Developer Account:**
+    Set up your [Spotify Developer Account](https://developer.spotify.com/dashboard) and create a new app to obtain your **Client ID** and **Redirect URI**.  
+    Add these to a `.env` file in the root directory of your project:
+
+    ```env
+    SPOTIFY_CLIENT_ID=YOUR_SPOTIFY_CLIENT_ID
+    SPOTIFY_REDIRECT_URI=musicalice://callback
+    ```
+
+4.  **Run the app:**
+    ```bash
+    flutter run
+    ```
