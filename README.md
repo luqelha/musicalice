@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://github.com/luqelha/musicalice/blob/main/images/musicaliceimage.png" 
+  <img src="https://raw.githubusercontent.com/luqelha/musicalice/main/images/musicalice.png" 
        alt="My Photo" 
-       style="max-width:100%; height:auto; border-radius:10px;"/>
+       width="200" 
+       style="border-radius:50%;"/>
 </p>
 
 <p align="center">
