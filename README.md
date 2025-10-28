@@ -35,14 +35,14 @@
 
 ## ✨ Features
 
-🏠 **Personalized Home Feed:** Discover curated playlists and personalized song recommendations powered by the Spotify API. See your recently played tracks at a glance.  
-🔍 **Powerful Search:** Instantly search Spotify's vast music catalog for tracks and artists.  
-📚 **Your Music Library:** Access all your Spotify playlists and liked songs in one place. Sort and filter your library with ease.  
-🎶 **Full-Screen Player:** Immerse yourself with a beautiful full-screen player displaying album art, track details, and playback controls (Play/Pause, Next, Previous, Shuffle, Repeat).  
-▶️ **Mini Player:** Keep the music playing while you browse. The persistent mini player provides quick access to playback controls from anywhere in the app.  
-⚙️ **Settings & Profile:** View your Spotify profile information and manage your login status.  
-🔒 **Secure Spotify Login:** Authenticates securely with your Spotify account using OAuth 2.0 and PKCE.  
-📱 **Built with Flutter:** Cross-platform compatibility for a consistent experience.
+- **🏠 Personalized Home Feed:** Discover curated playlists and personalized song recommendations powered by the Spotify API. See your recently played tracks at a glance.
+- **🔍 Powerful Search:** Instantly search Spotify's vast music catalog for tracks and artists.
+- **📚 Your Music Library:** Access all your Spotify playlists and liked songs in one place. Sort and filter your library with ease.
+- **🎶 Full-Screen Player:** Immerse yourself with a beautiful full-screen player displaying album art, track details, and playback controls (Play/Pause, Next, Previous, Shuffle, Repeat).
+- **▶️ Mini Player:** Keep the music playing while you browse. The persistent mini player provides quick access to playback controls from anywhere in the app.
+- **⚙️ Settings & Profile:** View your Spotify profile information and manage your login status.
+- **🔒 Secure Spotify Login:** Authenticates securely with your Spotify account using OAuth 2.0 and PKCE.
+- **📱 Built with Flutter:** Cross-platform compatibility for a consistent experience.
 
 ## 🚀 Getting Started
 
