@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/luqelha/musicalice/main/images/musicalice.png" 
        alt="My Photo" 
-       width="100" 
+       width="150" 
        style="border-radius:50%;"/>
 </p>
 
