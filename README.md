@@ -27,3 +27,10 @@
   &nbsp;
   <a href="https://dart.dev/" style="text-decoration:none;"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
 </p>
+
+---
+
+## 🎧 Musicalice
+
+> [!IMPORTANT]
+> Musicalice requires users to authenticate with a valid Spotify Premium subscription.
