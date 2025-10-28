@@ -1,14 +1,15 @@
-# musicalice
+<p align="center">
 
-A new Flutter project.
+</p>
 
-must to imrove
-[Music Player]
-
-1. player-nya nggk auto update while next song
-2. improve the UI for symmetricity
-3. Ketika keluar dari music player, state dari icon"nya kembali seperti semula (tidak menyimpan statenya) -> untuk button repeatnya (kembali warna putih)
-
-[Paylist Detail]
-
-1. While search button clicked, the resolution more bigger (i dont want it)
+<p align="center">
+  <a href="https://www.spotify.com/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+  <a href="https://flutter.dev/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  </a>
+  <a href="https://dart.dev/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  </a>
+</p>
