@@ -92,6 +92,4 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-**Note:** This project uses the Spotify API but is not affiliated with or endorsed by Spotify.
+Distributed under the MIT License. See [LICENSE](https://github.com/luqelha/musicalice/blob/main/LICENSE) for more information.
