@@ -71,6 +71,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
     ```env
     SPOTIFY_CLIENT_ID=YOUR_SPOTIFY_CLIENT_ID
+    SPOTIFY_CLIENT_SECRET=YOUR_SPOTIFY_SECRET_CODE
     SPOTIFY_REDIRECT_URI=musicalice://callback
     ```
 
