@@ -3,14 +3,17 @@
        alt="My Photo" 
        width="150" 
        style="border-radius:50%;"/>
+       &nbsp;
   <img src="https://raw.githubusercontent.com/luqelha/musicalice/main/images/searchpage.png" 
        alt="My Photo" 
        width="150" 
        style="border-radius:50%;"/>
+       &nbsp;
   <img src="https://raw.githubusercontent.com/luqelha/musicalice/main/images/librarypage.png" 
        alt="My Photo" 
        width="150" 
        style="border-radius:50%;"/>
+       &nbsp;
   <img src="https://raw.githubusercontent.com/luqelha/musicalice/main/images/settingspage.png" 
        alt="My Photo" 
        width="150" 
