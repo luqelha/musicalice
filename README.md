@@ -50,7 +50,7 @@
 - **🔒 Secure Spotify Login:** Authenticates securely with your Spotify account using OAuth 2.0 and PKCE.
 - **📱 Built with Flutter:** Cross-platform compatibility for a consistent experience.
 
-# 🔌 Spotify Web API Endpoints
+## 🔌 Spotify Web API Endpoints
 
 ## 🎧 Authentication
 
