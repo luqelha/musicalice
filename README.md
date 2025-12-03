@@ -50,6 +50,27 @@
 - **🔒 Secure Spotify Login:** Authenticates securely with your Spotify account using OAuth 2.0 and PKCE.
 - **📱 Built with Flutter:** Cross-platform compatibility for a consistent experience.
 
+# 🔌 Spotify Web API Endpoints
+
+## 🎧 Authentication
+
+| Method | Endpoint        | Description                               |
+|--------|------------------|---------------------------------------------|
+| GET    | /authorize       | Request user authorization (PKCE)          |
+| POST   | /api/token       | Exchange code for Access/Refresh Token     |
+
+## 📚 Data & Library
+
+| Method | Endpoint                        | Description                               |
+|--------|----------------------------------|---------------------------------------------|
+| GET    | /me                              | Get current user profile                    |
+| GET    | /me/playlists                    | Get current user's playlists                |
+| GET    | /me/tracks                       | Get user's saved tracks (Liked Songs)       |
+| GET    | /me/player/recently-played       | Get recently played tracks                  |
+| GET    | /search                          | Search for items (Tracks/Artists)           |
+| GET    | /playlists/{id}/tracks           | Get specific playlist items                 |
+
+
 ## 🚀 Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
