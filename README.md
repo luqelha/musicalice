@@ -70,6 +70,17 @@
 | GET    | /search                          | Search for items (Tracks/Artists)           |
 | GET    | /playlists/{id}/tracks           | Get specific playlist items                 |
 
+## 🎮 Player Control (Spotify Connect)
+
+| Method | Endpoint                  | Description                  |
+|--------|----------------------------|------------------------------|
+| PUT    | /me/player/play            | Start/Resume playback        |
+| PUT    | /me/player/pause           | Pause playback               |
+| POST   | /me/player/next            | Skip to next track           |
+| POST   | /me/player/previous        | Skip to previous track       |
+| PUT    | /me/player/seek            | Seek to position             |
+| PUT    | /me/player/shuffle         | Toggle shuffle               |
+| PUT    | /me/player/repeat          | Toggle repeat mode           |
 
 ## 🚀 Getting Started
 
